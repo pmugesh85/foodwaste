@@ -13,7 +13,7 @@ client = Client(account_sid, auth_token)
 twilio_number = '+18642077443'
 
 # Phone number to send notification to (replace with the client's phone number)
-client_number = '+918072187133'
+client_number = '+917708500797'
 
 # Create the main window
 window = tk.Tk()
